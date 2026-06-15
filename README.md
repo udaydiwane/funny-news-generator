@@ -82,8 +82,4 @@ This project is licensed under the MIT License.
 
 
 ---
-
-We can make this even better by adding:  
-- A **live demo link** if you host it (Render, Railway, Vercel, etc.)  
-- Funny sample headlines  
-- Screenshots / GIFs of the app in action  
+ 
